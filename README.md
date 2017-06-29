@@ -7,3 +7,5 @@ I'm going to make this into a slideshow with screenshots of my best work and I w
 I'm going to have a simple slideshow but it might have multiple features later on like 'play slides automatically' or 'organize by: year, language, code screenshots, screenshots of the working code, etc'.
 
 NOTE: This is a more personal project for me than anything. I just thought it would be fun to look back on where I started and how I improved.
+
+Test
